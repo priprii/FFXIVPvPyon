@@ -1,0 +1,23 @@
+[{
+	"Author": "Pyon",
+	"Name": "PvPyon",
+	"Punchline": "Now you can see the names of people bullying you in pvp.",
+	"Description": "Now you can see the names of people bullying you in pvp.",
+	"Changelog": "",
+	"InternalName": "PvPyon",
+	"AssemblyVersion": "1.0.0.0",
+	"RepoUrl": "https://github.com/priprii/FFXIVPvPyon",
+	"ApplicableVersion": "any",
+	"CategoryTags": [ "minigames" ],
+	"Tags": [ "pvp", "nameplate", "name", "pyon" ],
+	"DalamudApiLevel": 7,
+	"IconUrl": "",
+	"ImageUrls": [ "" ],
+	"DownloadLinkInstall": "https://github.com/priprii/FFXIVPvPyon/raw/main/bin/PvPyon.zip",
+	"IsHide": false,
+	"IsTestingExclusive": false,
+	"DownloadLinkTesting": "https://github.com/priprii/FFXIVPvPyon/raw/main/bin/PvPyon.zip",
+	"DownloadLinkUpdate": "https://github.com/priprii/FFXIVPvPyon/raw/main/bin/PvPyon.zip",
+	"DownloadCount": 0,
+	"LastUpdated": "1673073115"
+}]
